@@ -13,6 +13,6 @@ spec:
         run: argocd-kube
     spec:
       containers:
-      - image: worryscg365/docker-repo:9c4d9af
+      - image: worryscg365/docker-repo:1393f91
         name: argocd-kube
 
